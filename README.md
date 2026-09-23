@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -136,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
