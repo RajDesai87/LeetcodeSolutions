@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
