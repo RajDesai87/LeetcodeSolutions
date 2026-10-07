@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/RajDesai87/LeetcodeSolutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
